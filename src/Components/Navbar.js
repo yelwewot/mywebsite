@@ -6,6 +6,7 @@ export const Navbar = () => {
       <a href="/">
       <img
         src="https://assets.website-files.com/624fc1340c9d763a3cb1ead3/624fc4f40c9d769a31b207ee_Logo%20(3).png"
+        alt="skillhub logo"
         />
       </a>
       <ul id="navlist">
